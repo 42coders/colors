@@ -1,0 +1,19 @@
+{
+    "name": "42coders/colors",
+    "description": "Beautiful colors chosen randomly by ancient jedi techniques",
+    "license": "GNU GPL v3",
+    "type": "package",
+    "authors": [
+        {
+            "name": "42coders",
+            "email": "support@42coders.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+	"psr-4": {
+		"42coders\\Colors\\": "src"
+		}
+	}
+}
